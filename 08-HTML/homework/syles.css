@@ -1,0 +1,49 @@
+h1{
+    color: rgba(119, 95, 192);
+}
+
+img{
+    display: flex;
+    align-items: center;
+    width: 400px;
+}
+
+#thirdDiv{
+    display: flex;
+    align-content: center;
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgba(119, 95, 192, 0.8);
+    box-sizing: border-box;
+    padding: 50px;
+    border: 5px;
+    border-color: black;
+    border-style:groove;  
+}
+
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-vector/hand-drawn-hamburger-ink-sketch-fast-food-vector-illustration_319667-233.jpg?w=2000");
+    background-size: 10rem;
+    background-repeat:repeat;
+    background-color: rgba(119, 95, 192, 0.8);
+    background-blend-mode: overlay; 
+
+}
+.divclass{
+    display: block;
+    align-items: center;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    background-color: rgba(255,255,255,0.9);
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+
